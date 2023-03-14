@@ -1,0 +1,9 @@
+@article{REPO-107,
+    author = "Qu, Jiahui and Xu, Zhangchun and Dong, Wenqian and Xiao, Song and Li, Yunsong and Du, Qian",
+    journal = "IEEE Transactions on Neural Networks and Learning Systems",
+    number = "",
+    pages = "1-15",
+    title = "{A Spatio-spectral Fusion Method for Hyperspectral Images Using Residual Hyper-dense Network}",
+    volume = "",
+    year = "2022"
+}
